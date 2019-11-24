@@ -1,0 +1,8 @@
+.ContentData {
+    margin: auto;
+    align-content: center;
+    text-align: center;
+    border: 1px solid sienna;
+    width: 50%;
+    box-shadow:  1px 2px;
+}
